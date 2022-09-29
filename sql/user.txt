@@ -1,0 +1,3 @@
+USUARIO PARA INGRESAR A LA PLATAFORMA
+usuario: admin@admin.com
+contraseña: 123456
